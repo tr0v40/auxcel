@@ -22,3 +22,8 @@ tabela camposAux
 tabela valores
         idValor = 1   iduser = 11 idCampo = 1   valor = apelido1
         idValor = 2   iduser = 11 idCampo = 1   valor = apelido 2
+        
+        
+        Seleciona * from tbl_cli
+        
+        foreach tbl_cli em campos Aux...
